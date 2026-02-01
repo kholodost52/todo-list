@@ -23,6 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-
-# buld meneger
-package-lock.json  

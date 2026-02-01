@@ -2,7 +2,7 @@
 function App() {
   const count: number = 5
   return (
-    <div>hello wrld {count}</div>
+    <div>App root {count}</div>
   )
 }
 
